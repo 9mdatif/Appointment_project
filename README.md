@@ -92,16 +92,11 @@ public static void main(String[] args) {
 
 ---
 
-## 🚀 Future Improvements
-- Add database support (MySQL/SQLite)  
-- Add GUI (JavaFX/Swing)  
-- Department-based appointment sorting  
-- Export appointments to PDF or Excel  
-- Advanced symptom-based urgency detection  
-
----
-
 If you want, I can also make:  
 ✅ UML Diagram  
 ✅ PDF Documentation  
 ✅ Well-commented versions of both Java files  
+## ScreenShots of Output
+<img width="1297" height="528" alt="f7f8715e-b36b-4b2f-ae96-f9e5bb79422d" src="https://github.com/user-attachments/assets/dce30691-2472-4687-86f0-a0162093739f" />
+
+---
